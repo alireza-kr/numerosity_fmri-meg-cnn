@@ -17,3 +17,4 @@ I used the following tools for the project:
 - [CoSMoMVPA](https://www.cosmomvpa.org/)
 - [Surfing](https://surfing.sourceforge.net/)
 - [THINGSvision](https://thingsvision.github.io/)
+- [MNE-Python](https://mne.tools/stable/index.html)
