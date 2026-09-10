@@ -214,6 +214,10 @@ All data and model weights are hosted on [OSF](https://osf.io/) (Open Science Fr
 | ISA2 | [Download (.zip)](https://files.osf.io/v1/resources/6gdfu/providers/osfstorage/66e16c8e5f653b21762e0442/?zip=) |
 | Natural | [Download (.zip)](https://files.osf.io/v1/resources/6gdfu/providers/osfstorage/66e16cb2c372a19c5b1eb4ce/?zip=) |
 
+**Raw MEG data**
+
+Available on OSF: [osf.io/czswn](https://osf.io/czswn/)
+
 ---
 
 ## 🚀 Releases <a id="releases"></a>
