@@ -12,6 +12,7 @@
 How do brains — biological and artificial — represent *"how many"*?
 
 [![License](https://img.shields.io/github/license/alireza-kr/NuRBiM?color=lightgrey)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22693542.svg)](https://doi.org/10.5281/zenodo.22693542)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Core%20Language-e16737)
 ![Python](https://img.shields.io/badge/Python-MNE--Python-3776AB?logo=python&logoColor=white)
 [![Stars](https://img.shields.io/github/stars/alireza-kr/NuRBiM?style=social)](https://github.com/alireza-kr/NuRBiM/stargazers)
@@ -19,7 +20,7 @@ How do brains — biological and artificial — represent *"how many"*?
 
 🏷️ `cnn` `fmri` `meg` `numerosity`
 
-**[Overview](#overview)** · **[Structure](#repository-structure)** · **[Usage](#how-to-use-this-repository)** · **[Data](#data-and-pretrained-models)** · **[Publications](#publications)** · **[License](#license)**
+**[Overview](#overview)** · **[Structure](#repository-structure)** · **[Usage](#how-to-use-this-repository)** · **[Data](#data-and-pretrained-models)** · **[Releases](#releases)** · **[Publications](#publications)** · **[License](#license)**
 
 </div>
 
@@ -212,6 +213,17 @@ All data and model weights are hosted on [OSF](https://osf.io/) (Open Science Fr
 | DeWind | [Download (.zip)](https://files.osf.io/v1/resources/6gdfu/providers/osfstorage/66e16af872b893a38e459e9e/?zip=) |
 | ISA2 | [Download (.zip)](https://files.osf.io/v1/resources/6gdfu/providers/osfstorage/66e16c8e5f653b21762e0442/?zip=) |
 | Natural | [Download (.zip)](https://files.osf.io/v1/resources/6gdfu/providers/osfstorage/66e16cb2c372a19c5b1eb4ce/?zip=) |
+
+---
+
+## 🚀 Releases <a id="releases"></a>
+
+Tagged releases are archived on Zenodo, which mints a DOI for each one so
+you can cite the exact version of the code you used.
+
+* **v1.0** — [NuRBim-V1](https://github.com/alireza-kr/NuRBiM/releases/tag/v1.0), DOI: [10.5281/zenodo.22693542](https://doi.org/10.5281/zenodo.22693542)
+
+Manage Zenodo's GitHub archiving for this repo: [Settings | Zenodo](https://zenodo.org/account/settings/github/repository/alireza-kr/NuRBiM)
 
 ---
 
